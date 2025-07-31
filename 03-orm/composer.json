@@ -1,0 +1,20 @@
+{
+    "name": "pbreteche/orm",
+    "type": "project",
+    "require": {
+        "php": ">=8.3",
+        "illuminate/database": "^12.21"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pierre Bretéché",
+            "email": "pbreteche@dawan.fr"
+        }
+    ]
+}

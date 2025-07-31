@@ -1,0 +1,5 @@
+02-composer/vendor/
+02-composer/.php-cs-fixer.cache
+
+notes.odg
+.~lock.notes.odg#
